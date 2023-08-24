@@ -1,4 +1,5 @@
 #### Session Video:
+    https://drive.google.com/file/d/1PVMlgr8OvDG20L5uf0-Z_yl9x9euUT4T/view?usp=sharing
 
 #### OS Basics :
 
@@ -8,6 +9,10 @@ Hands-On :
             - EC2 :
                 - Linux or Windows 
                 
+- Unix Linux Distributions
+- Linux File System
+- Boot Process
+- Run Levels
 
 #### Unix / Linux File System
 
