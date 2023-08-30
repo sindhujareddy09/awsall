@@ -268,3 +268,62 @@
         
 #### Q?
     - 
+
+####
+
+```
+
+root@ip-172-31-16-168:~#
+root@ip-172-31-16-168:~# history
+    1  cd
+    2  su - ubuntu
+    3  cd
+    4  mysql
+    5  init 0
+    6  cd
+    7  clear
+    8  mysql
+    9  runlevel
+   10  systemctl status mysql
+   11  clear
+   12  cat /etc/os-release
+   13  apt update
+   14  apt install mysql-server -y
+   15  cd
+   16  mysql
+   17  su - ubuntu
+   18  CLEAR
+   19  clear
+   20  pwd
+   21  whereis useradd
+   22  whatis useradd
+   23  whatis adduser
+   24  whereis adduser
+   25  adduser spider
+   26  grep spider /etc/passwd /etc/shadow /etc/group /etc/gshadow
+   27  chage -l spider
+   28  chage spider
+   29  chage -l spider
+   30  su - ubuntu
+   31  clear
+   32  whatis userdel
+   33  whereis userdel
+   34  man userdel
+   35  # userdel spider
+   36  ls -lrt /home/spider/
+   37  userdel spider
+   38  ls -lrt /home/spider/
+   39  userdel -r spider
+   40  useradd hulk
+   41  grep hulk /etc/passwd /etc/shadow /etc/group /etc/gshadow
+   42  passwd hulk
+   43  grep hulk /etc/passwd /etc/shadow /etc/group /etc/gshadow
+   44  chage hulk
+   45  grep hulk /etc/passwd /etc/shadow /etc/group /etc/gshadow
+   46  usermod -s /bin/bash hulk
+   47  grep hulk /etc/passwd /etc/shadow /etc/group /etc/gshadow
+   48  usermod -d /opt/hulk hulk
+   49  grep hulk /etc/passwd /etc/shadow /etc/group /etc/gshadow
+   50  usermod -c "DevOps Engineer" hulk
+   51  grep hulk /etc/passwd /etc/shadow /etc/group /etc/gshadow
+```
