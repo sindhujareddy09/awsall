@@ -1,3 +1,8 @@
+#### Sesion Video:
+    https://drive.google.com/file/d/13R7Cju783C86nMn3XxsxBqwnwpuxD5c3/view?usp=sharing
+
+    https://drive.google.com/file/d/1tKryrsgappWvy0mEtO7Afd8JOVnyOHcK/view?usp=sharing
+
 #### HandsOn
 
 
