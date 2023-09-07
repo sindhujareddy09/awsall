@@ -15,6 +15,9 @@ Task-1 :
     5. Deploy a Artifact
 
 
+STEP-1: 
+
+
 
 #### Provision Linux i.e. Ubuntu:
 
