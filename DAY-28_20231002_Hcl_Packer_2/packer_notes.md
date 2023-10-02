@@ -1,5 +1,5 @@
 #### Session Video:
-    
+    https://drive.google.com/file/d/1iBn4rj6hQu47mfBp2CXkQlbNprklewNQ/view?usp=sharing    
 
 #### HCL - packer - Use cases
 
