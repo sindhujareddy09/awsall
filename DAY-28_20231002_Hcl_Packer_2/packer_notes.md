@@ -1,24 +1,13 @@
 #### Session Video:
     
 
-#### AWS Developer Tools : DevOps Tools
+#### HCL - packer - Use cases
 
-SCM/VCS Tools:
-    
-    https://github.com/kesavkummari/cb9amjava
-
-    Branch : b98am
-
-    AWS CodeCommit :
-        
-        Repository :
-
-        Branch : 
-
-CI Tools :
-
-    Jenkins :
-
-    AWS CodePipeline & CodeBuild :
-
+1. httpd
+2. apache2
+3. mysql
+4. tomcat
+5. jenkins
+6. jfrog
+7. sonarqube
 
