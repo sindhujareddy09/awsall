@@ -3,6 +3,35 @@
 
 #### IaC - Terraform
 
+# Versions 
+terraform {
+  required_providers {
+    aws = {
+      source  = "hashicorp/aws"
+      version = "4.40.0"
+    }
+  }
+}
+# Authentication to AWS from Terraform code
+provider "aws" {
+  region  = "us-east-1"
+  profile = "default"
+}
+
+resource "aws_instance" "cloudbinary_web" {
+  ami                    = ""
+  instance_type          = "t2.micro"
+  key_name               = ""
+  subnet_id              = ""
+  vpc_security_group_ids = [""]
+
+  tags = {
+    Name      = "cloudbinary_webserver"
+    CreatedBy = "Terraform"
+  }
+}
+
+
 #### Hashicorp Terraform
 ```
 What is Terraform?
