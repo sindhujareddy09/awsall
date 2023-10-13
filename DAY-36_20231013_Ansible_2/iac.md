@@ -1,3 +1,6 @@
+#### Session Video:
+  https://8amcloudbinary.s3.amazonaws.com/cb_b9_b10_videos/video1469624474.mp4
+  
 #### What is Configuration Management?
 
     - Configuration Management (CM) is a process used to manage, track, and control changes to a system's hardware, software, and documentation throughout its life cycle. 
