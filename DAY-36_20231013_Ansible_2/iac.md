@@ -1,4 +1,7 @@
 #### Session Video:
+  
+  https://drive.google.com/file/d/1mXKfmgEwRO_Pr4Vw5ReLqJvlRqb5AZIJ/view?usp=sharing
+
   https://8amcloudbinary.s3.amazonaws.com/cb_b9_b10_videos/video1469624474.mp4
   
 #### What is Configuration Management?
