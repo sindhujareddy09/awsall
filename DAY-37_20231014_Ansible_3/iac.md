@@ -1,6 +1,8 @@
 #### Session Video :
   https://drive.google.com/file/d/1-0ELgSpGTJ4-XNHOz9LljRnHStgB0PzS/view?usp=sharing
   
+https://gitlab.com/kesav.kummari/ansible-role-tomcat
+
 #### STEP-1 : Launch 2 EC2 Instance i.e. Ubuntu
 
 ```
