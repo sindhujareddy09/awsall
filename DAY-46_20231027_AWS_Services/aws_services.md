@@ -13,6 +13,8 @@
 
     - Amazon S3
 
+```
+
 # Server-1:
 
 #!/bin/bash
@@ -49,4 +51,5 @@ echo "<h1><center>Welcome To Cloud Binary - Cloud & DevOps As Service - $(hostna
 
 
 sudo mount -t nfs4 -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=2,noresvport fs-0e96bjdjdjd4da90b.efs.ap-south-1.amazonaws.com:/ /var/www/html/
+```
 
