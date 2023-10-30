@@ -4,6 +4,7 @@
 #### Route53 & AWS Certificate Manager
 
 
+```
 # Server-1:
 
 #!/bin/bash
@@ -21,4 +22,5 @@ systemctl start apache2
 
 # Deploy Simple Code 
 # echo "<h1><center>Welcome To Cloud Binary - Learn By Doing - $(hostname -f)</center></h1>" > /var/www/html/index.html
+```
 
