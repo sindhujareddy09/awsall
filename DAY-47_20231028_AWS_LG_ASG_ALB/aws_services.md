@@ -4,6 +4,7 @@
 #### LCG - ASG - ALB
 
 
+```
 # Server-1:
 
 #!/bin/bash
@@ -29,4 +30,5 @@ systemctl start apache2
 # echo "<h1><center>Welcome To Cloud Binary - Learn By Doing - $(hostname -f)</center></h1>" > /var/www/html/index.html
 
 sudo mount -t nfs4 -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=2,noresvport fs-0e96bcbcf344da90b.efs.ap-south-1.amazonaws.com:/ /var/www/html/
+```
 
